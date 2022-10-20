@@ -1,0 +1,16 @@
+{
+"name": "slotbet",
+"theme": "slotbet",
+"version": "3.9.5",
+"description": "slotbet ทางเข้าหลักเว็บไซต์แทงบอลเว็บตรง อันดับ 1 รับเงินเครดิตฟรี",
+"keywords": [
+"slotbet",
+"slotbet เครดิตฟรี",
+"slotbet ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/slotbet",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
